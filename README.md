@@ -1,2 +1,8 @@
 # SearchEngine
-You can search for related contents from entire database and can also add data into . More its easy to edit and run easily enjoy.  Prject done in c# . Made in unity for android . 
+Made in unity for android . 
+
+
+Its responsibe app. 
+Just create unity project and replace your porjects Assets folder with my following Assets folder. 
+Add scenes in build settings . Open file ->Build Setting . here drag scenes from Assets->scenes folder and enjoy run.
+Still i have added apk file you can download and run .
